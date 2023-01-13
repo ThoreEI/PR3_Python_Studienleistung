@@ -10,7 +10,6 @@ class Person:
     postal_code: str
     residence: str
 
-
 if __name__ == '__main__':
     with open("../docs/Personen.txt", "r") as input_file:
         personal_data = input_file.readlines()
