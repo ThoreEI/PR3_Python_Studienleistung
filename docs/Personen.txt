@@ -1,0 +1,501 @@
+Name,Adresse,GebDatum,Telefon
+Maurizio Nette,"Zahnweg 0,82505 Querfurt",1913-12-28,05768 401245
+Traute Eimer,"Klaus-Werner-Kramer-Straße 87,21837 Lübben",1918-02-04,(06315) 47866
+Veronika Gnatz,"Hüseyin-Gertz-Ring 20,92058 Bernburg",2012-09-25,(01069) 36743
+Ing. Charlotte Sölzer,"Heinz-Werner-Huhn-Platz 595,11363 Gifhorn",1964-08-09,01764 90195
+Editha Bruder,"Wilfried-Bolnbach-Allee 3,04530 Ebersberg",1955-10-15,+49(0)2209 66205
+Maurice Wernecke,"Fliegnerstraße 0,78929 Eilenburg",1972-02-19,+49 (0) 4054 938593
+Prof. Lina Neureuther,"Beate-Ruppert-Ring 7,55531 Jülich",1970-12-13,+49(0) 581699652
+Luciano Rohleder,"Mona-Weimer-Gasse 7,15149 Kaiserslautern",1955-12-16,(01234) 061701
+Margarita Klotz,"Alena-Bärer-Straße 81,38530 Burg",1910-08-29,+49(0)5946121109
+Janko Freudenberger-Bloch,"Bruderstr. 67,25903 Zossen",2016-10-25,+49(0)0359185128
+Curt Schuster,"Binnergasse 8,84982 Worbis",1976-05-31,+49(0) 941407123
+Univ.Prof. Ladislaus Ruppersberger,"Thiesstraße 7,21430 Hildburghausen",1956-12-28,+49(0)6471 56904
+Aline Speer,"Winklerweg 36,07184 Sebnitz",1932-02-04,09492 50637
+Ing. Milena Wulff,"Sahin-Schulz-Gasse 37,95530 Spremberg",1965-11-19,0395565262
+Lutz Junck,"Hertrampfstraße 701,61030 Forst",1926-10-31,(01817) 447973
+Klaus-Dieter Kühnert,"Kristine-Hecker-Straße 05,82206 Soltau",2012-01-10,02701065822
+Leo Gunpf,"Tom-Beier-Platz 281,18102 Olpe",1912-02-02,+49(0)3394 843181
+Eckehard Lachmann,"Löwerring 33,38170 Staffelstein",1929-02-25,01609082765
+Dieter Paffrath,"Radischstraße 27,58968 Osterode am Harz",2012-03-18,+49(0)5570951975
+Dr. Alfredo Stiffel,"Erhard-Schenk-Ring 4,54552 Roding",1958-11-06,+49(0)2094 741482
+Janna Weinhage,"Hanna-Löchel-Ring 9,14798 Wittstock",1927-03-27,04263 592092
+Elisa Wulf,"Aumanngasse 54,72953 Schwarzenberg",1991-05-25,08659634645
+Univ.Prof. Elena Schmiedecke,"Albina-Putz-Weg 4,17122 Uelzen",2009-11-26,+49(0)9355 162074
+Jasmin Ruppersberger-Hertrampf,"Mälzerring 931,47992 Erkelenz",1972-09-19,(03117) 44924
+Thea Rudolph,"Budigstr. 94,97470 Böblingen",1972-11-01,+49(0)8146 185950
+Prof. Henrike Barkholz,"Hertrampfplatz 905,35099 Pinneberg",1939-01-28,(09077) 40634
+Slawomir Beer,"Zorbachstraße 59,28001 Großenhain",1939-10-27,+49(0) 726841129
+Christine Hahn,"Katharina-Freudenberger-Platz 27,42032 Deggendorf",1939-12-25,05117 30582
+Veli Schacht-Mosemann,"Gierschnerplatz 3,40097 Wolfach",1979-09-16,+49(0)4829 069394
+Karoline Vollbrecht,"Rabea-Lange-Gasse 1,29908 Kusel",2020-08-22,0088997483
+Dipl.-Ing. Friedericke Hecker,"Erdogan-Wiek-Ring 78,00659 Gütersloh",1961-10-06,0891640895
+Gerda Heuser,"Sepp-Preiß-Weg 50,86010 Lübben",1925-03-31,+49(0)6242 136266
+Jörgen Ackermann,"Gröttnerweg 06,73401 Calw",1942-12-12,(05117) 367503
+Erhardt Stey,"Radischstraße 42,65186 Finsterwalde",1916-04-22,08132 765756
+Virginia Pärtzelt,"Joseph-Gute-Allee 33,03679 Wunsiedel",1943-05-01,(03776) 16660
+Prof. Lene Klingelhöfer,"Pasquale-Textor-Gasse 485,44065 Soest",1928-05-29,06091 23790
+Lea Eimer-Ritter,"Rosl-Wende-Weg 889,91785 Koblenz",1941-04-13,00079 29238
+Heinfried Karge,"Handestraße 98,81280 Beilngries",1944-12-22,(06024) 980047
+Marlene Krause,"Gerda-Köster-Ring 0,71669 Geldern",2017-12-27,08918 902472
+Wilfriede Schuchhardt,"Margrafallee 830,44313 Füssen",1974-03-18,00157 25824
+Prof. Uwe Blümel,"Nurten-Warmer-Straße 450,40053 Burglengenfeld",1976-05-31,02586841528
+Univ.Prof. Siglinde Herrmann,"Bärbel-Heydrich-Straße 45,76368 Freital",2021-12-14,(03001) 67441
+Ingmar Hölzenbecher-Fliegner,"Bettina-Mude-Platz 09,74558 Artern",2003-09-12,+49(0)5591 21795
+Dipl.-Ing. Johannes Dietz,"Kenan-Mülichen-Gasse 085,80286 Bersenbrück",1916-04-14,07962 445142
+Almut Schäfer,"Anneliese-Trüb-Allee 801,83811 Sigmaringen",1958-08-26,09507 888999
+Arnold Drub,"Martinring 5,04136 Sebnitz",1975-02-19,+49 (0) 5042 036732
+Lucie Baum,"Sylke-Börner-Gasse 954,28603 Donaueschingen",1934-06-09,+49(0)0736 71670
+Hanne Kramer-Eberhardt,"Tilman-Meyer-Allee 680,55038 Grafenau",1983-01-09,+49(0)1358275161
+Hans-Karl Junk,"Hänelgasse 71,15022 Pinneberg",1925-07-23,03491867409
+Stefani Eberth,"Heßplatz 6,40062 Kronach",1933-12-24,+49 (0) 1522 094429
+Meik Schmidtke,"Holtplatz 675,57034 Gardelegen",1945-04-15,04441 17742
+Angelica Kobelt,"Nettestraße 9,17473 Bergzabern",1949-08-05,+49(0)9218147843
+Vlado Hölzenbecher,"Hedy-Binner-Straße 51,01378 Mainburg",1959-08-22,01912 088176
+Dorit Bauer,"Augustin-Weinhold-Weg 14,05392 Sankt Goarshausen",1987-09-14,(07442) 074815
+Marzena Gorlitz,"Andres-Meister-Platz 71,75290 Leipziger Land",1958-04-27,(08919) 609861
+Dr. Asta Bohnbach,"Luka-Zahn-Straße 4,67756 Hildburghausen",1917-12-19,+49 (0) 8642 760942
+Julie Hethur,"Tim-Weller-Weg 74,91231 Warendorf",2012-09-03,+49(0)7374054154
+Ilhan Stahr,"Möchlichengasse 29,36789 Geithain",1979-04-30,(00965) 14162
+Ada Spieß,"Klappstr. 788,38305 Ilmenau",2015-07-15,09957031173
+Istvan Kühnert,"Heinz-Otto-Killer-Gasse 40,07969 Hildesheim",1992-09-14,+49(0)0684 18230
+Otmar Bähr,"Heinz-Willi-Geisler-Allee 319,40368 Kulmbach",1940-01-23,+49(0)6056 782665
+Anto Keudel-Zobel,"Gröttnerring 56,44867 Emmendingen",1953-11-03,(03334) 051189
+Rafael Heinrich,"Goran-Tlustek-Platz 9,17978 Nördlingen",1916-12-09,+49 (0) 7667 889120
+Meryem Köhler,"Annett-Kambs-Weg 02,49415 Chemnitz",1924-04-19,0696548811
+Geza Kramer-Weihmann,"Lorenz-Lindner-Allee 46,61054 Nürtingen",1987-11-03,(05426) 53137
+Anka Schmidt,"Ziegertallee 443,34721 Regensburg",1983-07-24,+49 (0) 6191 124001
+Gundolf Fiebig,"Katarina-Seidel-Platz 60,39068 Perleberg",1973-04-16,+49(0)7834 487669
+Camilla Dörschner,"Bolandergasse 6,93754 Höxter",1930-06-06,(05266) 08926
+Adem Cichorius,"Fedor-Hellwig-Straße 55,79285 Havelberg",1979-04-28,+49 (0) 0018 830235
+Marvin Segebahn,"Marcus-Geisel-Gasse 29,71455 Bogen",1990-10-19,+49(0) 881642482
+Brita Zorbach,"Heringstraße 48,65168 Altötting",1943-10-26,04035462660
+Alida Koch-Faust,"Pölitzring 736,16048 Burg",1916-06-07,+49(0)2720 02189
+Aneta Kallert,"Eugenie-Hornig-Straße 893,04162 Lüdinghausen",1973-01-22,03626 79250
+Ludwig Budig,"Hoffmannring 63,23069 Hammelburg",1935-09-11,+49(0)2079 43158
+Renata Stoll,"Jüttnergasse 36,24487 Meppen",2001-10-24,+49 (0) 6622 294556
+Andrew Köster,"Ritterweg 65,60046 Pasewalk",1982-03-06,+49(0)8308 29945
+Edwin Paffrath,"Kornelius-Rogner-Platz 48,29177 Beeskow",1958-07-31,+49(0)5505 32374
+Prof. Hans-Friedrich Schuchhardt,"Gunhild-Bender-Ring 885,83607 Lichtenfels",1912-11-08,06156 906433
+Sami Kuhl,"Zimmergasse 2,79804 Pinneberg",1939-05-22,(08640) 277108
+Severin Faust-Köhler,"Waltraut-Rudolph-Ring 6,51245 Parchim",1983-09-11,00674 05893
+Hanns Gnatz,"Hentschelstr. 2,10824 Erding",1976-12-24,08598 22526
+Ralf Hesse-Krein,"Abdullah-Grein Groth-Ring 86,62409 Norden",1931-01-25,02683356796
+Vincenzo Otto-Hermighausen,"Emanuel-Dietz-Straße 8,82385 Stollberg",1946-11-10,09259 478689
+Ulf Jacob,"Eckard-Sölzer-Gasse 13,68137 Uelzen",1950-11-22,+49(0)1207 002544
+Betti Jessel,"Kühnertstr. 08,48710 Stollberg",1968-03-09,08186 13217
+Ing. Tanja Ruppert,"Sükrü-Rosenow-Weg 65,18466 Wunsiedel",1980-02-29,+49(0) 053179432
+Harri Budig,"Leander-Gertz-Gasse 961,76618 Zschopau",1954-08-26,(04100) 237436
+Anneliese Hofmann,"Yusuf-Ditschlerin-Ring 067,67275 Osterburg",1954-06-18,02467 57505
+Diana Zänker-Reichmann,"Striebitzplatz 99,58484 Schwäbisch Hall",1988-06-14,00165 094418
+Marlene Baum,"Dajana-Ladeck-Platz 95,60483 Badibling",1943-04-05,08274655304
+Abraham Zimmer,"Mikhail-Mühle-Ring 93,82273 Oranienburg",1926-02-03,+49(0)0460071225
+Gunda Eimer,"Traude-Ullrich-Straße 47,59532 Biedenkopf",1990-01-22,+49(0)1704 12416
+Prof. Grit Atzler,"Petar-Pruschke-Straße 6,77702 Hagenow",1994-01-03,(08876) 280005
+Horst-Günter Geisel,"Christoph-Ritter-Straße 70,33795 Kelheim",1945-11-21,(08899) 70109
+Mirella Rosemann,"Mirjana-Nette-Platz 3,27488 Steinfurt",1977-12-06,(08157) 41236
+Univ.Prof. Elfie Schmiedt,"Magrit-Henschel-Gasse 28,25521 Quedlinburg",1948-12-20,+49(0)2930 335658
+Emilie Mitschke,"José-Gute-Ring 72,15737 Borna",1967-10-23,+49 (0) 2049 410711
+Friedrich-Karl Hövel,"Jockelplatz 85,70205 Hechingen",2007-03-25,+49(0)8755 882392
+Arnold Wohlgemut,"Ulla-Weihmann-Weg 03,51584 Paderborn",1931-08-22,+49(0)5614 233101
+Änne Tlustek,"Greta-Lehmann-Gasse 05,18369 Säckingen",1951-07-18,04530080752
+Valentina Krebs,"Walther-Mielcarek-Platz 179,54668 Ravensburg",2008-03-22,+49(0) 602003562
+Ing. Justus Jockel,"Nada-Kreusel-Gasse 70,96551 Görlitz",2008-11-12,0722385595
+Isabell Säuberlich,"Dunja-Gunpf-Weg 850,28622 Badibling",1942-09-21,0652437617
+Lisa Kreusel,"Käthi-Heser-Weg 032,46541 Schmölln",1981-07-07,03777 560402
+Roderich Zobel,"Niels-Kensy-Platz 64,90951 Döbeln",2007-11-27,06947 46518
+Anja Hentschel,"Florence-Zobel-Platz 519,10171 Spremberg",2010-09-06,04175 212454
+Eileen Graf,"Janina-Keudel-Straße 464,52619 Wolmirstedt",2020-05-30,+49(0)6691 811723
+Hedi Gieß,"Andrew-Stiebitz-Platz 48,32632 Böblingen",1957-11-21,0228596516
+Milka Schleich,"Theodor-Bolnbach-Straße 5,89755 Waldmünchen",1956-05-03,0665504202
+Prof. Rosalie Linke,"Francoise-Lindau-Straße 673,25356 Gerolzhofen",2001-10-19,+49(0) 985981691
+Joerg Jüttner,"Wilfried-Gute-Ring 08,85656 Freital",2015-02-25,+49 (0) 2096 650777
+Carina Loos-Hecker,"Katy-Karge-Straße 8,69185 Badibling",1968-01-23,+49(0) 265115300
+Margaretha Kallert,"Agnieszka-Jacobi Jäckel-Weg 03,57409 Uelzen",1917-11-30,05845 092997
+Maxim Rohleder,"Löfflerring 150,52233 Berchtesgaden",1945-10-24,0165968343
+Dipl.-Ing. Ole Linke,"Klappstr. 89,13239 Peine",2003-05-06,+49(0)7712 661974
+Carmine Thies,"Rudolphplatz 3,24297 Wolgast",1952-09-03,0032444038
+Ing. Dorothee Bachmann,"Goran-Berger-Platz 9,95000 Osterode am Harz",1952-09-17,(07926) 43389
+Andy Wähner,"Tomas-Häring-Allee 020,78750 Lübeck",1927-12-23,0235135220
+Marten Müller,"Drubinplatz 30,47442 Waren",1992-02-09,09597139266
+Achim Langern,"Sabrina-Hänel-Straße 97,23996 Kemnath",1996-10-26,+49(0)0529621641
+Cäcilia Matthäi,"Janine-Langern-Weg 2,38765 Schwerin",1954-10-13,+49(0)3605 944622
+Univ.Prof. Karl-Ernst Bolander,"Heintzegasse 40,77103 Gotha",1994-12-11,+49 (0) 3760 311423
+Stephan Franke-Weiß,"Neureuthergasse 32,20945 Wolgast",1995-03-05,+49(0) 869271271
+Ing. Ingeborg van der Dussen,"Anatolij-Kroker-Gasse 461,05498 Euskirchen",1912-05-05,0381256393
+Jörgen Kitzmann,"Wilmsenring 49,28350 Ingolstadt",1989-04-29,01018 148067
+Bernard Hörle,"Patricia-Stiebitz-Gasse 7,61410 Eutin",2019-09-10,(01215) 925671
+Clemens Wulff-Hartung,"Meinrad-Dobes-Gasse 530,74451 Biedenkopf",1925-06-18,(03692) 640334
+Traute Löchel,"Freudenbergerweg 00,46005 Wetzlar",1917-10-02,+49(0)1280 28267
+Adrian Klapp,"Austermühleweg 99,50571 Werdau",1939-12-26,+49(0) 028302547
+Sarina Ernst,"Mona-Rosemann-Platz 55,67499 Geldern",2019-07-09,0879267573
+Univ.Prof. Aldo Jähn,"Eimergasse 79,30201 Mainburg",1938-01-26,(00802) 007890
+Ing. Justus Schlosser,"Wendeweg 53,82469 Haldensleben",2005-10-02,+49(0)1505 30557
+Univ.Prof. Klaus-Peter Vogt,"Hövelweg 8,22488 Northeim",2006-06-26,02152 822659
+Hermann-Josef Peukert,"Eleni-Ebert-Gasse 78,66864 Füssen",1967-03-15,05471 07377
+Steve Dussen van,"Kochstr. 01,53418 Merseburg",1973-04-06,+49 (0) 9297 695876
+Viviane Hörle,"Rädelring 25,31201 Borken",1979-10-22,+49 (0) 2865 359194
+Rolf-Peter Junck,"Krokerplatz 7,61864 Mittweida",1947-07-25,02244 72193
+Gunar Naser,"Gerti-Bruder-Weg 1,08920 Bützow",1920-01-01,+49(0)0650 069480
+Dr. Milka Bien,"Pechelstr. 3,35293 Waren",2001-09-30,+49 (0) 1299 564637
+Larissa Kabus,"Löwerstraße 35,30960 Sternberg",1971-03-24,+49(0)3335 18506
+Malte Baum,"Donald-Mülichen-Platz 49,09159 Aue",1965-05-03,+49(0)9459 285016
+Friederike Krebs,"Süßebiergasse 8,31057 Worbis",1947-07-26,+49(0) 135961659
+Rotraut Jüttner,"Hans-Georg-Döring-Gasse 7,16645 Kronach",1977-01-26,03785811731
+Calogero Henschel,"Gerolf-Schuster-Allee 28,62203 Heiligenstadt",1998-03-04,+49(0)4597 638763
+Ulrike Girschner,"Anatolij-Fröhlich-Platz 667,62555 Eisenhüttenstadt",1939-09-18,+49(0)3761358196
+Dipl.-Ing. Yvette Liebelt,"Drewesgasse 6,82565 Erding",1983-01-13,+49(0) 352777867
+Volkhard Jungfer,"Harloffplatz 6,41761 Bad Langensalza",1986-03-08,+49(0)2768 718955
+Henryk Rose,"Löfflerweg 91,91780 Hoyerswerda",2006-08-09,07088 88759
+Timo Ditschlerin,"Schuchhardtring 732,38184 Freising",1952-03-13,+49(0)2793 669030
+Stjepan Seifert,"Liliane-Rudolph-Allee 772,83000 Neunburg vorm Wald",1909-03-01,(04250) 342653
+Jelena Vollbrecht,"Zorbachplatz 249,89678 Delitzsch",1948-09-21,(07811) 606234
+Ing. Peter Tlustek,"Gnatzstr. 51,46898 Bremervörde",2007-09-27,+49(0)4232565699
+Maike Heintze-Hendriks,"Mendeplatz 57,12456 Bamberg",1916-11-10,(00907) 906129
+Alina Tschentscher,"Sybilla-Köster-Platz 31,50503 Dieburg",1925-05-17,01791 40971
+Theda Kabus,"Nicolai-Junk-Weg 07,70079 Wetzlar",1977-04-06,0527520904
+Aloys Vogt-Käster,"Björn-auch Schlauchin-Allee 82,72792 Altentreptow",2008-12-02,+49(0)0017991160
+Prof. Klaus Peter Gorlitz,"Paffrathring 217,75257 Wertingen",1918-07-15,+49(0)9821 95407
+Prof. Sükrü Hermighausen,"Strohstraße 228,26979 Burg",1934-05-23,+49(0)0442156704
+Dino Mohaupt,"Scheelgasse 99,00129 Bützow",1924-07-25,+49(0)2501768918
+Dipl.-Ing. Raphael Heuser,"Loretta-Lindau-Gasse 155,44634 Ribnitz-Damgarten",1987-05-24,05963 06912
+Dipl.-Ing. Stefani Drubin,"Cläre-Loos-Platz 06,35747 Schmölln",1974-06-04,(05432) 799132
+Ing. Violetta Dehmel,"Eimerstraße 477,11123 Eisenach",1939-10-31,+49(0)4206967253
+Dipl.-Ing. Magret Zänker,"Eberhardtstraße 71,61580 Gardelegen",1931-03-01,+49(0)7524 11603
+Prof. Ian Lindau,"Haasering 67,18731 Ribnitz-Damgarten",1932-09-11,+49(0)7173 433220
+Dr. Kornelia Holzapfel,"Claudius-Jockel-Gasse 29,06138 Heinsberg",1955-08-18,+49 (0) 2512 932357
+Prof. Senta Stahr,"Kösterstraße 70,15412 Forst",2002-03-17,+49(0) 792778785
+Hulda Wiek,"Grafstraße 3,36523 Quedlinburg",1963-11-10,+49(0) 596572574
+Alexa Kusch,"Netteallee 24,73960 Donaueschingen",1976-01-09,(01506) 718532
+Hans Jürgen Lange,"Edward-Roskoth-Weg 14,28997 Eutin",1945-02-10,04329 70554
+Torsten Liebelt,"Mijo-Wieloch-Platz 715,49531 Stadtroda",1926-02-11,01740004604
+Ing. Miroslav Steinberg,"Trübplatz 65,55852 Hamburg",1984-06-16,+49 (0) 9863 246765
+Hubertine Kade,"Wilfried-Mosemann-Weg 20,96603 Suhl",1989-06-17,+49 (0) 5151 585569
+Natali Roskoth,"Hella-Heser-Allee 958,73434 Düren",1931-02-04,(05480) 527516
+Hans-Friedrich Kusch,"Anett-Täsche-Allee 8,93533 Büsingen am Hochrhein",1939-06-17,0748400743
+Janine Hörle,"Hethurgasse 979,48486 Berlin",1982-01-11,(05023) 814097
+Jo Gerlach-Weihmann,"Schülerallee 3,37873 Pritzwalk",1919-05-14,+49(0)8396554068
+Adelbert Dörschner,"Gerhart-Ehlert-Allee 81,64701 Rudolstadt",2022-12-05,06013 30903
+Tino Cichorius,"Schollgasse 025,02338 Kassel",1935-06-16,00795 59531
+Prof. Ljiljana Preiß,"Steinbergplatz 39,20426 Sonneberg",1985-01-31,+49(0) 828410247
+Magret Heinz,"Miodrag-Mangold-Allee 580,37413 Rockenhausen",1914-07-07,+49(0)7498 04349
+Mirjam Kusch,"Heidrichallee 44,70941 Flöha",1969-02-21,+49 (0) 8693 848398
+Dipl.-Ing. Edelbert Mans,"Scholzring 349,12487 Aachen",1946-06-22,(03513) 22607
+Doreen Fischer,"Barkholzgasse 159,71215 Schweinfurt",1972-06-11,05209 539127
+Leonore Kallert,"Carsten-Schmidt-Ring 98,50905 Dieburg",2003-10-10,+49(0)7502 44638
+Monica Franke,"Geißlerring 4,67079 Altentreptow",1946-09-19,+49(0)6324 402305
+Valeska Bärer,"Hertha-Mitschke-Ring 63,98800 Rastatt",2009-12-11,+49(0)9079510485
+Ing. Annelore Gorlitz,"Frieder-Wende-Platz 54,55563 Düren",1912-09-19,03448361553
+Dr. Nora Martin,"Hedwig-Dobes-Gasse 721,98155 Altentreptow",2005-03-02,+49(0)0693788060
+Liselotte Hartmann,"Jobst-Wirth-Ring 6,45267 Lobenstein",2012-03-20,+49(0)6035 886374
+Anatolij Eimer,"Volker-Stroh-Allee 35,78100 Kitzingen",1920-10-12,+49(0)6571 833796
+Margitta Krein-Hartmann,"Pechelgasse 53,68743 Stuttgart",1910-12-09,+49(0) 738874688
+Emma Hübel,"Reichmannstraße 9,26696 Gerolzhofen",1962-10-29,+49(0)1018 268365
+Birthe Wende,"Aleksander-Ditschlerin-Platz 8,55132 Mayen",1976-09-29,00372 95518
+Bernadette Rose,"Eva-Maria-Naser-Straße 30,64967 Ebern",1936-03-14,06097 60902
+Ellen Keudel,"Geißlerweg 3,40514 Döbeln",1908-07-29,+49(0)6570 649759
+Imelda Römer-Dobes,"Kühnertgasse 19,50929 Neustadtner Waldnaab",1908-03-20,+49 (0) 8887 991853
+Danuta Kohl,"Mendeallee 291,14055 Merseburg",1926-12-16,02624 683036
+Britt Carsten,"Kay-Uwe-Drewes-Ring 149,40590 Kusel",2022-07-07,+49(0)9875 966398
+Dr. Michaele Klemt,"Filippo-Hahn-Platz 297,23899 Erding",2011-11-22,+49 (0) 5058 854844
+Maya Berger,"Brigitta-Binner-Ring 3,36461 Werdau",1998-07-18,+49(0) 443856760
+Branka Gute,"Monique-Stey-Weg 22,75435 Berlin",1947-08-08,+49(0) 346846797
+Birgitta Möchlichen,"Baumgasse 547,00670 Einbeck",1979-12-10,+49(0)9853 66650
+Dr. Ina Walter,"Lilian-Gunpf-Ring 61,97214 Greiz",1985-12-25,+49(0)2549694406
+Maik Seifert-Hettner,"Klemmring 90,12652 Spremberg",1978-07-15,00423 08250
+Ing. Thies Eigenwillig,"Kochstraße 933,65435 Osterode am Harz",2022-02-11,+49(0)4910445140
+Univ.Prof. Adolf Scheuermann,"Jasmina-Zahn-Straße 796,58303 Marktheidenfeld",1969-08-20,+49(0) 702605112
+Prof. Danielle Röhricht,"Valeri-Höfig-Ring 9,28211 Dinslaken",1966-12-19,(08843) 493807
+Hans-Otto Sager-Schleich,"Wernerweg 9,95289 Zeulenroda",1945-06-17,+49(0) 090239639
+Ing. Frieda Ernst,"Klaus Dieter-Faust-Ring 85,96636 Witzenhausen",1946-04-10,+49(0)2661108575
+Jonas Mentzel,"Julian-Herrmann-Straße 9,46470 Viersen",1948-11-28,+49(0) 389392714
+Swantje Jäkel-Naser,"Dowergstr. 25,13869 Brand",1910-11-01,+49(0) 497863916
+Hiltraud Hamann,"Benderstr. 629,47929 Bad Kreuznach",1960-08-07,+49(0)3028 50779
+Andrea Ullrich,"Sepp-Jäntsch-Gasse 27,52357 Rothenburg ob der Tauber",1916-08-19,+49(0)0477 548319
+Univ.Prof. Freia Heintze,"Heidrichstr. 68,56982 Schleiz",1938-05-17,+49(0) 058966053
+Hans-Dieter Weiß,"Marie-Theres-Adolph-Gasse 850,56536 Lippstadt",2002-02-19,+49(0)8325 074277
+Janina Stey,"Gumprichring 83,22186 Gelnhausen",1955-04-02,06383158007
+Raimund Mentzel-Anders,"Tlustekgasse 4,54153 Chemnitz",1987-07-22,(07387) 917470
+Brita Hörle,"Gundolf-Jähn-Weg 33,09904 Meißen",1938-12-16,+49(0) 103141133
+Marlene Trupp,"Stahrplatz 68,89430 Apolda",2001-09-04,(05824) 965630
+Kay-Uwe Mitschke-Wagenknecht,"Schaafstr. 918,39127 Karlsruhe",1941-07-28,+49(0)1207570023
+Dusan Bähr,"Gutestr. 47,37086 Stade",2010-08-28,01390220819
+Agnes Davids,"Steffi-Schmiedt-Allee 82,00868 Lippstadt",1994-07-13,+49(0) 335095760
+Magret Gute-Hübel,"Nurten-Trubin-Gasse 70,80840 Kleve",1927-01-10,(04331) 10981
+Abbas Schmiedt-Kramer,"Hillergasse 83,76450 Wittenberg",1969-05-02,(07493) 33069
+Miodrag Rose,"Traute-Klingelhöfer-Weg 425,05882 Coburg",2016-05-19,+49(0) 847648499
+Hansjoachim Kohl-Schaaf,"Recep-Salz-Allee 273,33256 Gadebusch",2020-03-09,04631 46962
+Univ.Prof. Flora Trupp,"Ottostraße 08,04476 Pirmasens",2009-12-12,+49(0) 120595790
+Lorenzo Koch,"Herrmannstr. 00,91397 Luckenwalde",1982-04-04,(03048) 80670
+Ing. Erhardt Rogner,"Mansallee 90,99985 Säckingen",1932-04-27,08924 131258
+Mina Drewes,"Weihmannallee 589,30395 Genthin",2020-04-25,+49 (0) 4415 699065
+Ing. Hildegard Förster,"Jäntschplatz 995,29005 Schwäbisch Gmünd",1969-12-16,03309 23211
+Ing. Eva-Marie Niemeier,"Kochstr. 21,77695 Heinsberg",1966-10-02,01713563587
+Chantal Gehringer,"Saban-Kallert-Ring 8,11460 Belzig",2020-04-25,+49 (0) 4798 686148
+Lars Hoffmann-Stiffel,"Udo-Pärtzelt-Allee 33,62887 Mayen",2001-04-14,+49 (0) 7097 049128
+Theda Kaul,"Zenon-Stolze-Platz 38,28153 Kronach",1950-08-15,+49(0)2080 127131
+Hans-Walter Sorgatz,"Erhard-Conradi-Platz 5,18187 Weimar",1951-12-14,+49(0) 386882573
+Alexei Kallert,"Langering 8,95072 Böblingen",1980-11-28,(09065) 248190
+Irmela Kobelt,"Ackermannplatz 84,19197 Böblingen",2022-01-17,07874 22346
+Cosima Rosemann,"Kaspar-Steinberg-Weg 90,97841 Fürstenwalde",1938-10-12,01575420626
+Leyla Faust,"Mirco-Kreusel-Gasse 568,51836 Bad Kissingen",1915-11-19,+49 (0) 6543 660310
+Jörg-Peter Weitzel,"Kabusstr. 12,24474 Stendal",1965-05-22,+49(0)2154 19959
+Anna Heser,"Alice-Löwer-Ring 12,65278 Passau",2019-06-04,+49 (0) 0400 721576
+Marija Martin,"Marlen-Gute-Ring 6,43563 Greifswald",1944-06-24,+49(0)3877 831675
+Dipl.-Ing. Änne Mentzel,"Vladimir-Werner-Gasse 34,01658 Siegen",2015-03-05,03397627982
+Pero Köster,"Schmidtplatz 43,59469 Neustadt am Rübenberge",2020-12-10,05424 36372
+Wanda Girschner,"Hans Georg-Klapp-Gasse 86,88163 Düren",1954-08-15,+49(0) 234777137
+Agnieszka Drubin-Pechel,"Hans-Herbert-Scholtz-Weg 89,39023 Hildburghausen",1975-06-06,(08798) 66576
+Dipl.-Ing. Antonie Scholz,"Ludmila-Vollbrecht-Straße 30,24652 Rockenhausen",1963-11-18,04648 775764
+Dr. Hans-Werner Christoph,"Bettina-Pohl-Weg 99,55550 Steinfurt",1990-03-07,+49(0) 253747464
+Eugenie Heidrich,"Ritterstraße 80,43840 Hohenmölsen",1913-02-08,+49(0)5187 625203
+Gerhild Nohlmans,"Gotthardstraße 53,77896 Gera",1998-09-03,(04437) 599022
+Heinz-Otto Radisch,"Löfflerplatz 04,14648 Bremen",2006-07-11,+49 (0) 9414 777006
+Frieder Wähner,"Michaela-Trupp-Straße 61,76963 Kaiserslautern",1954-04-02,0913926870
+Gisa Weitzel,"Caterina-Mielcarek-Gasse 2,45926 Roth",1948-01-06,(04856) 734617
+Ing. Paulo Röhricht,"Waltergasse 22,94946 Plauen",2014-01-07,(00359) 56593
+Traudl Spieß,"Ziegertgasse 1,57207 Stuttgart",1942-02-12,(05185) 697015
+Christiane Barkholz,"Siegrid-Heintze-Ring 97,92460 Ebersberg",1954-05-19,+49(0) 108101046
+Prof. Dittmar Dörschner,"Schleichweg 669,90705 Mallersdorf",1952-01-30,+49 (0) 1109 937788
+Hans-Michael Schmidtke,"Horst-Günter-Hiller-Allee 3,61506 Göppingen",1993-04-26,+49(0) 901940242
+Piotr Lange,"Rolf-Peter-Lehmann-Gasse 661,72407 Strausberg",1993-05-10,(02129) 139484
+Slobodan Jacob,"Försterstraße 25,60691 Berchtesgaden",1939-04-12,0967900521
+Geza Baum-Martin,"Wulffplatz 384,63014 Kehl",1927-03-21,+49(0)3414571469
+Ingbert Mans,"Loosgasse 17,89140 Melle",1948-03-25,+49(0) 643615835
+Bianka Scholtz,"Nico-Dietz-Platz 275,24971 Bautzen",1991-05-31,00373 56753
+Univ.Prof. Albrecht Jäntsch,"Lachmannstr. 0,94856 Cuxhaven",1980-02-06,+49(0)4798 442424
+Cristina Walter,"Hölzenbecherstraße 41,36621 Bremen",1912-03-22,00356 245317
+Rüdiger Schmidtke,"Lidija-Schmiedt-Allee 62,58594 Parsberg",2008-01-29,06058 30042
+Kläre Ruppersberger,"Hermannweg 67,93458 Illertissen",1929-08-11,09760 521354
+Georgine Heidrich,"Friedrich-Klemt-Ring 8,73376 Teterow",1969-07-22,05953 74003
+Luciano Hertrampf,"Handegasse 0,02918 Kamenz",1968-01-04,(09313) 242614
+Eckehard Radisch,"Jadwiga-Drub-Straße 306,61145 Tuttlingen",1996-12-28,(04519) 618110
+Rene Lindau,"Henner-Vollbrecht-Straße 9,34270 Merseburg",1910-06-09,02277399859
+Violetta Scholtz-Dörr,"Bertha-Wähner-Gasse 42,47516 Wittstock",1991-05-18,09202 146903
+Dr. Guido Speer,"Beierring 58,84048 Hohenstein-Ernstthal",1974-01-17,0529076155
+Sofie Stahr,"Burkhard-Hänel-Weg 139,84426 Querfurt",2011-07-19,+49(0)3559 510093
+Detlef Heser,"Fredo-Briemer-Platz 17,09131 Altentreptow",1994-11-26,+49(0) 941044576
+Dipl.-Ing. Mirjana Gute,"Bienplatz 9,52799 Crailsheim",1958-08-01,+49(0) 481870102
+Sylke Ebert,"Bolzmannstraße 8,40259 Mayen",1985-10-05,(04117) 31883
+Alexandre Sontag,"Seipstraße 43,38889 Hohenmölsen",2010-03-27,+49(0) 587242423
+Prof. Rose Söding,"Schomberstraße 15,75623 Euskirchen",1959-04-13,08459 50876
+Kristina Bohnbach,"Geert-Hendriks-Straße 88,83582 Ludwigslust",2002-03-05,+49 (0) 6712 235168
+Linus Johann,"Carla-Becker-Platz 9,12627 Magdeburg",1990-09-15,08253 06993
+Rotraut Langern,"Martina-Wulff-Straße 55,92239 Wittstock",1925-03-20,+49(0)1329 884814
+Susann Gierschner-Weihmann,"Meta-van der Dussen-Straße 0,88737 Plauen",2014-01-06,(06930) 85100
+Annette Käster-Gude,"Renata-Losekann-Straße 7,19342 Sondershausen",1978-02-27,+49(0) 286496563
+Univ.Prof. Angela Hettner,"Truppplatz 86,28423 Belzig",1959-04-16,+49(0) 812886092
+Sarah Knappe,"Gutknechtweg 32,55183 Soltau",1948-02-03,+49 (0) 8586 874528
+Ester Pohl,"Silvio-Scholz-Gasse 92,20163 Oschatz",1987-06-28,02196 70339
+Klaus-D. Baum,"Trubring 25,54720 Euskirchen",1989-10-15,08495 882439
+Cengiz Koch,"Ernstring 777,32690 Hannover",1988-08-22,0666859481
+Annegrete Roht,"Bohnbachweg 542,42030 Burglengenfeld",1907-05-17,07402513826
+Rosl Biggen,"Radischring 97,82719 Gunzenhausen",1949-07-04,+49(0) 248558924
+Kunigunde Trubin,"Loni-Ehlert-Ring 4,41383 Lemgo",1969-11-14,(02955) 71631
+Univ.Prof. Maik Zimmer,"Ferdinand-Heß-Allee 528,13883 Nordhausen",1937-06-02,(02877) 76165
+Wencke Wohlgemut-Mohaupt,"Mosemannring 2,69393 Stadtroda",1928-08-05,+49(0)0167 52298
+Prof. Maritta Hermann,"Tomasz-Reising-Platz 412,31986 Ravensburg",2017-04-17,+49(0)0920 95565
+Goran Mälzer-Margraf,"Etzlergasse 894,69327 Halberstadt",1995-12-27,+49(0)9017656681
+Ing. Ulrich Kranz,"Ewald-Harloff-Ring 175,65160 Mettmann",2012-07-13,0127460321
+Therese Peukert,"Jasmina-Stiebitz-Allee 89,75165 Recklinghausen",1964-05-11,+49(0)3390769696
+Ing. Vincent Salz,"Reingard-Weihmann-Platz 88,47875 Bautzen",1965-04-26,+49(0) 870322839
+Dipl.-Ing. Peter Putz,"Holger-Eberth-Ring 36,44587 Perleberg",2005-05-29,(02038) 781256
+Zita Pärtzelt,"Freudenbergerstr. 8,97335 Backnang",1911-10-31,03737998341
+Manuel Reichmann-Werner,"Karl-Friedrich-Johann-Ring 14,72045 Güstrow",1914-01-03,07102567969
+Piotr Scheel,"Briemerplatz 15,15347 Waldmünchen",2018-09-15,+49 (0) 5094 906809
+Edeltraud Fröhlich,"Nada-Ditschlerin-Allee 3,44522 Eilenburg",2014-07-26,06799 081049
+Ing. Harro Weiß,"Henckring 34,26179 Wesel",1948-07-13,06237629130
+Gudula Noack,"Biggenplatz 04,86228 Soltau",1910-11-09,+49(0)7836 058657
+Lothar van der Dussen,"Carstenring 16,82923 Guben",1973-03-30,+49(0)5372498320
+Hermann Josef Dowerg,"Gotthold-Ullmann-Allee 480,59930 Aue",1955-01-01,+49(0)4085 76613
+Ester Klingelhöfer,"Blochring 5,23383 Senftenberg",1911-03-27,+49 (0) 5049 738910
+Rosi Bohnbach-Oestrovsky,"Mendestraße 86,18475 Genthin",1963-04-15,+49(0)5177371963
+Brit Weinhage,"Wally-Rose-Straße 78,91437 Helmstedt",1951-01-30,+49(0) 660029028
+Univ.Prof. Käthi Pieper,"Viola-Hölzenbecher-Weg 516,56158 Hagenow",2013-09-23,+49(0) 156735372
+Dr. Christin Scheuermann,"Anto-Flantz-Straße 533,75195 Sondershausen",1984-01-18,(09684) 147745
+Uschi Scholl,"Rustring 6,69071 Halberstadt",1965-07-23,(02865) 36714
+Eberhard Vogt,"Helen-Rädel-Weg 99,23189 Vohenstrauß",2002-02-11,0066373634
+Gundel Eigenwillig-Ullrich,"Trudel-Rosemann-Platz 50,46677 Göttingen",1991-10-25,0525086887
+Berthold Hesse-Holt,"Heinzstraße 3,43673 Monschau",2009-05-02,00822 507456
+Kordula Börner,"Gerald-Johann-Allee 861,36291 Stollberg",1953-11-26,(03692) 310983
+Donata Bonbach,"Ebertgasse 71,71431 Schweinfurt",1978-08-15,+49(0)7929 043289
+Tibor Gehringer-Fischer,"Kästerring 878,91309 Luckenwalde",1960-09-26,+49 (0) 2266 492751
+Gabriela Zorbach,"Magrit-Carsten-Ring 464,64179 Ebersberg",1968-06-14,(00490) 71754
+Univ.Prof. Ralf-Dieter Ullrich,"Jann-Rogner-Allee 70,65741 Demmin",1960-05-23,(06406) 988517
+Margita Dobes,"Lilija-Thanel-Platz 72,72061 Ebersberg",1954-01-04,+49 (0) 0754 199450
+Dragan Bender,"Fabian-Hermighausen-Weg 6,00768 Bad Liebenwerda",2020-04-21,+49(0) 753032833
+Kornelius Nohlmans,"Friedericke-Hiller-Straße 86,38974 Sebnitz",1997-06-13,+49 (0) 4622 158353
+Mina Bolnbach,"Elzbieta-Trupp-Straße 76,10387 Greifswald",1926-09-30,+49 (0) 3100 382206
+Univ.Prof. Teresa Siering,"Siegmar-Blümel-Gasse 408,24409 Bremervörde",1964-04-27,+49(0)4586485185
+Anastasia Hermighausen,"Pohlstr. 48,21526 Klötze",2011-01-01,+49(0)2611 164974
+Nicolai Schmiedt,"Truppring 484,10494 Recklinghausen",1936-07-28,(02668) 791382
+Benita Trüb,"Clara-Eigenwillig-Allee 58,18258 Stadtsteinach",1969-01-19,06341 68733
+Jörgen Nette,"Amalia-Drubin-Allee 96,26162 Wertingen",1992-04-29,0775413932
+Prof. Thorsten Plath,"Hans-Albert-Döhn-Platz 78,89218 Deggendorf",1927-02-18,+49(0)6338 840159
+Stephanie Hövel,"Seidelgasse 84,98399 Seelow",1965-02-07,07205 952034
+Alberto Austermühle,"Bendergasse 28,03474 Lüdenscheid",1961-10-04,+49(0)0212293365
+Rotraud Ullmann,"Corinna-Pechel-Gasse 25,93456 Tecklenburg",2017-06-25,+49(0)7668 546880
+Bertold Döring,"Darko-Rust-Platz 6,24662 Querfurt",1964-02-27,+49(0)0924790671
+Claus-Dieter Tintzmann,"Casparstraße 8,24244 Darmstadt",1982-09-09,0731000359
+Elif Hörle,"Beckergasse 21,26149 Potsdam",1932-03-27,+49 (0) 1287 180920
+Marina Schweitzer,"Hellmuth-Fechner-Straße 83,22733 Hamburg",1942-01-09,04140434353
+Dipl.-Ing. Lena Hellwig,"Walterstr. 25,13619 Plauen",1999-05-16,+49(0)4254613709
+Theres Heuser,"Trubgasse 8,37042 Stadtroda",1936-05-07,+49(0)0312 99762
+Steven Bolzmann,"Rosemanngasse 016,38837 Ansbach",2019-06-17,05908 050683
+Anatolij Putz,"Cichoriusallee 32,80956 Oberviechtach",1931-08-01,0812831627
+Sandra Barkholz,"Adelinde-Heidrich-Platz 9,37454 Aurich",1970-11-28,+49(0) 823483356
+Florence Martin,"Dobesstraße 5,12646 Bad Kreuznach",1977-01-13,+49(0)7521 126492
+Laurenz Kranz,"Beata-Schönland-Allee 9,18575 Stade",1990-04-29,+49 (0) 9236 070123
+Asta Schüler,"Ackermannstraße 00,99559 Greifswald",1924-08-30,+49(0)3655 906248
+Jessica Bähr,"Albrecht-Fiebig-Allee 61,64549 Bad Kissingen",1920-06-16,+49(0)6640981359
+Aziz Trapp-Zänker,"Ferenc-Baum-Platz 63,18928 Gransee",2016-03-13,+49(0)1039 46673
+Felix Reising,"Heide-Marie-auch Schlauchin-Allee 3,74587 Lörrach",1937-10-15,+49(0)9898 313515
+Leonid Kusch,"Hansjörg-Geisel-Gasse 60,10691 Tübingen",2022-02-25,0967149907
+Renate Zobel-Budig,"Bettina-Gumprich-Ring 877,77042 Großenhain",2017-06-27,(00702) 419207
+Theresia Birnbaum-Drewes,"Kensyplatz 9,38100 Schweinfurt",2017-12-07,02211 75351
+Dr. Walther Oestrovsky,"Stiebitzallee 70,43130 Wetzlar",1992-05-03,+49 (0) 1708 455391
+Bert Geisel,"Marie-Theres-Steinberg-Straße 984,93723 Hannover",1969-12-27,0454542327
+Trudi Mitschke,"Börnerring 1,50559 Neuss",2016-10-28,+49(0)2330 281506
+Karl-Josef Peukert,"Geißlerstraße 4,37459 Griesbach Rottal",1966-01-24,+49(0)1562 27570
+Vassilios Benthin,"Wilmsenplatz 6,64279 Schwäbisch Gmünd",1975-03-15,04070 093181
+Carmine auch Schlauchin,"Pohlring 928,76843 Wetzlar",1981-10-27,(07711) 05384
+Piotr Gorlitz,"Walterstraße 4,85049 Viersen",1930-11-30,+49 (0) 6729 203755
+Denise Schottin,"Muzaffer-Jacobi Jäckel-Weg 1,41884 Suhl",1985-04-21,+49 (0) 1919 551603
+Siegmar Sorgatz,"Junckplatz 4,48678 Uffenheim",1919-03-19,+49 (0) 3981 543312
+Imke Henck,"Gudestraße 4,81662 Hettstedt",1934-09-22,(06022) 772716
+Monica Weihmann-Hecker,"Schweitzerallee 365,83924 Lörrach",1985-05-15,00107 60039
+Prof. Mesut Süßebier,"Frieda-Trubin-Platz 0,11306 Auerbach",1989-12-01,0402509887
+Aleksej Wirth,"Vollbrechtstraße 0,72529 Burgdorf",1956-09-01,06727 12198
+Ibrahim Reinhardt,"Claudius-Müller-Straße 21,14194 Weißwasser",1968-10-25,+49(0)4264 08489
+Pietro Hein-Meyer,"Friedemann-Noack-Straße 5,63309 Güstrow",1954-02-28,07301978044
+Ute Putz,"Kunigunda-Stiebitz-Allee 39,83938 Sankt Goar",2020-05-30,+49(0)6081673325
+Nuray Karge,"Hanny-Anders-Ring 33,62399 Greiz",1950-01-21,01648 683047
+Aleksandra Hornig,"Selim-Schottin-Allee 630,81725 Kassel",1937-06-10,0372662645
+Abbas Hesse,"Ziegertstr. 05,16001 Greifswald",2018-09-11,0001369324
+Diether Freudenberger,"Ernstgasse 367,36936 Schwerin",1954-11-09,02636265201
+Meta Jäntsch,"Bärerallee 8,80079 Schwäbisch Hall",1974-07-29,06724465973
+Dipl.-Ing. Josip Rogge,"Malgorzata-Wilms-Gasse 676,32064 Staffelstein",1936-02-26,05117185691
+Dr. Helmar Gehringer,"Elke-Wagenknecht-Straße 46,79295 Soest",1931-10-08,(09697) 11393
+Franca Davids,"Luka-Schulz-Gasse 5,22982 Monschau",1944-11-03,0098522382
+Prof. Dragan Renner,"Löfflerallee 34,79086 Teterow",1942-09-30,+49(0)2722 516298
+Leonid Tröst,"Gerlachstr. 1,70689 Hettstedt",2008-02-27,+49(0)6107282240
+Univ.Prof. Friedemann Vogt,"Schmiedeckeallee 72,18691 Feuchtwangen",2001-09-28,+49(0)6548 737727
+Ing. Chantal auch Schlauchin,"Ringallee 46,18700 Main-Höchst",1995-12-24,05940 552537
+Peer Hörle,"Danuta-Mälzer-Ring 8,91870 Ingolstadt",2009-07-01,06953 143340
+Dipl.-Ing. Kirsten Rohleder,"Jäntschring 5,21033 Ebermannstadt",1973-03-01,+49(0)9603 31625
+Bernd Winkler,"Christina-Schottin-Straße 04,29099 Ravensburg",1968-06-27,+49(0)8083409696
+Univ.Prof. Klaus-Günter Junck,"Willi-Kruschwitz-Gasse 2,50344 Werdau",2014-08-07,(04407) 724268
+Nancy Kuhl-Holt,"Cord-Junken-Ring 35,19441 Hofgeismar",1930-11-17,+49(0)5392713892
+Magnus Kühnert,"Klappweg 8,05410 Genthin",1912-03-08,03962 659468
+Harm Wiek-Textor,"Hertrampfring 913,12004 Vohenstrauß",1951-09-15,+49(0) 303687694
+Jürgen Bohnbach,"Kirstin-Baum-Ring 4,19581 Lüdenscheid",1928-02-22,0018485228
+Dr. Roberto Fritsch,"Hethurplatz 3,73786 Neustadtner Waldnaab",1943-08-02,+49 (0) 9460 201948
+Arif Birnbaum,"Ullmannallee 96,65922 Wolfratshausen",1937-02-21,+49(0)6445 852100
+Bernhard Kusch,"Ronny-Beier-Straße 6,46582 Hagenow",1989-06-16,01101 984420
+Prof. Cindy Weller,"Nuray-Schenk-Weg 313,85633 Berchtesgaden",1994-08-23,(09397) 39735
+Pedro Kranz,"Biggenallee 07,18635 Euskirchen",1949-08-23,+49 (0) 3842 151768
+Janna Hettner,"Dimitrios-Trommler-Straße 71,78506 Anklam",1926-10-13,+49(0) 287313733
+Roswitha Rust,"Hethurplatz 7,07915 Burg",1998-04-12,0121686474
+Anna-Marie Löwer,"Oderwaldallee 7,48608 Quedlinburg",1996-01-24,+49(0) 845723796
+Herlinde Wähner,"Försterstr. 6,76976 Finsterwalde",1907-01-31,(08940) 300110
+Hubertine Lange,"Hartmannring 667,13529 Stollberg",1933-06-18,(03939) 62585
+Dipl.-Ing. Catharina Gotthard,"Cemal-Eberth-Platz 85,66088 Saulgau",2006-09-21,05536621207
+Dr. Gretchen Mangold,"Krokergasse 1,51405 Eilenburg",1952-04-02,06884 39124
+Vitus Carsten,"Kaulplatz 65,36141 Anklam",1949-06-15,+49(0) 465167789
+Prof. Willy Pergande,"Marko-Weiß-Weg 2,30306 Quedlinburg",1935-01-06,+49(0)8222 39588
+Fatih Klemt,"Wesackplatz 02,41525 Miesbach",1974-12-23,+49 (0) 3972 124252
+Christine Putz,"Weihmanngasse 71,53795 Lüneburg",1929-04-11,09079 880573
+Prof. Sylke Zobel,"Anatolij-Förster-Weg 85,02934 Northeim",1921-02-17,+49 (0) 7409 075542
+Margitta Bolander,"Staudeplatz 817,82463 Bad Langensalza",2005-08-05,03267 47690
+Brunhild Pölitz,"Hornichweg 50,77879 Husum",1956-08-21,+49(0)3435989880
+Prof. Karl-Dieter Tschentscher,"Kornelia-Buchholz-Weg 59,28728 Gießen",1946-06-21,08955 15189
+Antoinette Hertrampf,"Zahnstr. 067,88066 Hansestadttralsund",1944-02-01,+49(0)9688175797
+Dipl.-Ing. Gundula Kensy,"Bienstr. 3,45781 Sebnitz",1927-09-30,0202767875
+Kristine Mitschke-Dowerg,"Trubinring 25,93276 Chemnitz",1942-04-04,+49 (0) 1783 701803
+Dr. Valerie Trubin,"Zimmerring 888,27915 Tuttlingen",1963-01-06,+49(0) 346699406
+Ing. Klaus Weiß,"Brigitta-Rörricht-Straße 881,31561 Uelzen",1938-02-19,02722 071605
+Carlo Lorch-Austermühle,"Margitta-Scheibe-Ring 32,00083 Erbisdorf",1935-05-30,04717482262
+Ilja Bolander,"Kristiane-Gehringer-Weg 903,05968 Gifhorn",1976-07-01,+49(0)3089989459
+Monica Scheibe,"Klaus-Günter-Jopich-Allee 717,40796 Parchim",2022-05-03,04385 65289
+Prof. Igor Christoph,"Wiekstraße 560,55184 Bischofswerda",1995-03-25,+49(0)1537 57364
+Giovanna Wieloch,"Frank-Peter-Bien-Allee 5,09528 Donaueschingen",1923-03-20,0331293681
+Univ.Prof. Cilly Fischer,"Ullrichallee 907,46567 Augsburg",1989-12-17,+49(0)4096 116201
+Silva Ullrich,"Sandra-Aumann-Weg 57,43418 Zerbst",1984-12-21,00836249516
+Alfonso Hamann,"Röhrichtgasse 5,33068 Altentreptow",1989-06-16,0249098962
+Hertha Hornig,"Drubinstraße 95,19498 Halberstadt",2019-11-22,00312 96340
+Ing. Trude Bloch,"Schweitzerweg 01,57244 Güstrow",1924-08-29,01189 84525
+Lutz Schweitzer,"Seipring 65,15379 Sömmerda",1931-08-11,+49(0)6366573953
+Roderich Henck,"Jobst-Hethur-Ring 25,87221 Döbeln",1971-03-26,+49(0)2503 923500
+Pasquale Franke,"Ackermannring 47,22321 Holzminden",1977-02-01,+49(0)9157 60299
+Ing. Eva-Marie Beer,"Mangoldgasse 806,30073 Luckenwalde",1942-05-24,(05561) 57100
+Ing. Patricia Haering,"Neuschäferweg 6,63459 Haldensleben",1986-06-27,+49(0)9911249981
+Hanns Hein,"David-Hesse-Allee 875,43168 Dinslaken",1931-07-28,01155 336355
+Kristin Kruschwitz,"Dan-Schmidt-Gasse 54,46733 Torgau",1944-04-03,(04049) 96817
+Norma Siering-Jopich,"Harriet-Preiß-Gasse 291,20533 Großenhain",2019-12-09,+49(0)9268 91943
+Hans-Karl Hentschel,"Annita-Anders-Platz 61,55358 Witzenhausen",1957-06-20,09227 392672
+Tatjana Schulz,"Marieluise-Scholz-Gasse 7,47739 Eutin",2019-03-25,07190 72700
+Danuta Adolph,"Vitali-Fliegner-Straße 02,41863 Lobenstein",1942-02-17,01204 941908
+Artur Dietz-auch Schlauchin,"Gertraude-Juncken-Gasse 27,00463 Döbeln",1927-10-28,04513378832
+Krzysztof Scheibe-Girschner,"Röhrichtweg 90,93694 Aschaffenburg",1993-02-27,+49(0)2108 53074
+Ernst-Dieter Ullmann,"Hans-Werner-Kruschwitz-Gasse 410,36887 Bad Mergentheim",1949-02-27,06927 837512
+Vadim Oestrovsky-Wagenknecht,"Patbergallee 03,01260 Herzberg",1927-08-12,09142 02150
+Dr. Hans-Helmut Ullrich,"Ottoring 162,34123 Erfurt",1943-12-03,(01020) 68825
+Franka Scheuermann,"Schaafring 48,51644 Merseburg",1992-03-21,(09604) 47933
+Sebastiano Naser,"Rotraud-Pechel-Allee 3,21230 Brand",1911-01-22,+49(0) 860101685
+Iris Heinz,"Janos-Henk-Weg 00,23496 Schongau",1915-12-17,+49(0)9580 781028
+Oxana Lehmann,"Joseph-Trapp-Platz 8,53267 Saarlouis",1935-01-06,+49 (0) 3294 972284
+Osman Schweitzer,"Putzstraße 33,74609 Lüdinghausen",1966-03-02,+49(0)8684531717
+Ursula Textor,"Margrafring 988,15527 Uffenheim",1984-05-26,+49 (0) 3142 076968
+Veit Hecker,"Schlosserweg 20,78390 Rockenhausen",2016-07-22,+49(0)9035 06945
+Prof. Kathy Bähr,"Jonas-Schuster-Allee 128,43211 Burgdorf",1988-05-16,(08723) 313989
+Jochem Mitschke,"Casparplatz 070,22068 Burglengenfeld",2019-10-06,0602701699
+Dipl.-Ing. Ryszard Gierschner,"Mudegasse 108,77500 Kitzingen",2006-04-06,0817849000
+Lukas Heß,"Bert-Bonbach-Platz 6,75354 Zossen",1941-06-11,05563 87709
+Lilli Bloch,"Beate-Ortmann-Straße 387,46540 Haldensleben",1980-08-24,01326 675839
+Bernt Freudenberger,"Winklerstr. 38,83381 Ebermannstadt",1938-01-31,06881 160165
+Hildegard Dehmel,"Urte-Ruppert-Weg 633,04362 Hettstedt",1981-05-28,04555 610368
+Dipl.-Ing. Lothar Weiß,"Trubinstraße 83,45304 Neu-Ulm",1985-02-18,07237 153834
+Ramona Trubin,"Eugen-Putz-Platz 02,53257 Freital",1959-04-20,+49(0)4446 405791
+Fredy Tschentscher,"Krzysztof-Thies-Ring 67,94504 Iserlohn",1999-03-30,07439 68564
+Tilly Pieper,"Karl-Hermann-Atzler-Ring 59,72493 Sonneberg",2017-05-23,+49 (0) 6542 268230
+Albert Putz,"Krzysztof-Scholl-Ring 4,54737 Neuruppin",1924-10-29,04541 85616
+Dr. Marian Eberhardt,"Junckenplatz 716,20223 Eisenach",2005-11-16,02419496663
+Dipl.-Ing. Martina Scholl,"Grazyna-Hertrampf-Allee 176,84102 Schweinfurt",1945-01-18,+49(0)6074 374289
+Erica Müller,"Wulfplatz 130,42282 Lüdenscheid",1932-01-27,00497 336261
+Tülay Buchholz,"Cäcilia-Bonbach-Straße 05,07239 Erbisdorf",1950-12-16,+49(0) 941991289
+Antje Gieß,"Freudenbergerplatz 60,15266 Hechingen",1923-04-11,07397 469170
+Irma Preiß,"Ira-Koch-Platz 87,74196 Bremervörde",2001-08-08,0037393834
+Silke Pergande,"Heserallee 84,77307 Rottweil",1933-04-18,+49(0)8220 13528
+Siegrid Krause,"Annett-Bonbach-Platz 837,21514 Aue",1992-03-16,07798 98719
+Dipl.-Ing. Xenia Hornig,"Wigbert-Hethur-Ring 49,71413 Hannover",1916-04-28,(08424) 15911
+Kristin Textor,"Eleonore-Mentzel-Gasse 34,52570 Bützow",1950-05-21,(01197) 04495
+Dr. Leo Hein,"Geislergasse 260,06596 Schwabmünchen",1990-01-07,(08030) 783415
+Dana Lehmann,"Mangoldgasse 099,08177 Sömmerda",1964-05-04,+49(0)5202 001702
+Hannelore Ullmann,"Ines-Fischer-Platz 66,92837 Torgau",2017-01-27,+49(0) 646785545
+Dr. Ricarda Biggen,"Drewesallee 56,90954 Germersheim",1971-08-19,(01179) 02022
+Adolf Schmidt,"Kostolzinplatz 2,34481 Heinsberg",1977-10-25,+49 (0) 0905 668693
+Viola Schmidtke,"Kobeltweg 009,51475 Säckingen",1999-04-29,04170 41979
+Martha Matthäi,"Andersplatz 587,42499 Waren",2016-11-03,+49(0)4719 29116
+Marica Kabus,"Mareike-Rust-Weg 289,94899 Helmstedt",1965-10-22,+49(0)8013 09223
+Hans Georg Stolze-Barth,"Gerald-Möchlichen-Allee 31,20732 Worbis",2006-12-29,+49(0) 590819215
+Diether Eigenwillig-Mies,"Köstergasse 57,50121 Eichstätt",2010-05-21,+49 (0) 6372 696411
+Hans-Albert Otto,"Heringgasse 90,53987 Prenzlau",1957-03-19,(03970) 07229
+Alfredo Kohl,"Metzplatz 99,99658 Wittstock",1917-06-03,08997 240439
+Ralf Putz,"Heinstr. 630,90288 Oberviechtach",1991-11-20,+49(0) 849404855
+Guntram Juncken,"Rosenowring 57,51031 Gadebusch",1961-09-29,+49 (0) 8054 190204
+Krystyna Zorbach,"Manfred-Rädel-Ring 759,53380 Pirmasens",1918-05-16,+49(0) 098971180
+Dipl.-Ing. Tatiana Heser,"Rohtgasse 06,57550 Tirschenreuth",1923-05-30,03663180422
+Georgia Klingelhöfer,"Briemerstr. 7,34749 Vohenstrauß",1969-12-01,+49(0)5504 03546
+Jobst Schaaf-Naser,"Kösterplatz 5,02945 Kronach",1960-10-21,04132 856568
+Hans-Henning Pärtzelt,"Kreuselplatz 13,33085 Amberg",1987-08-22,08305 724967
+Türkan Hänel,"Eimergasse 8,15900 Konstanz",1972-09-11,0834142401
+Dogan Jähn,"Romana-Jacobi Jäckel-Weg 05,28902 Günzburg",1941-11-15,0685100979
+Uli Wernecke,"Eimerstr. 396,69263 Königs Wusterhausen",2018-02-10,(03909) 841588
+Sibel Löwer,"Segebahnallee 63,65554 Bruchsal",1994-04-20,(03819) 852013
+Dr. Gilda Siering,"Rita-Schulz-Platz 47,40402 Quedlinburg",2001-05-08,+49(0)0531 04525
+Konstantinos Jessel,"Bergerweg 7,76144 Eilenburg",1938-03-03,02264481058
+Sophie Hübel,"Täscheweg 9,61510 Rosenheim",1961-01-21,+49(0)1811 45494
+Dipl.-Ing. Pedro Johann,"Kuschstraße 83,72449 Dinslaken",2017-06-05,(03273) 96562
+Hedwig Kusch-Mentzel,"German-Hermann-Straße 204,37964 Gräfenhainichen",1985-06-11,(02149) 798694
+Thaddäus Otto,"Schollplatz 906,55159 Mellrichstadt",1943-02-27,(06159) 84687
+Ing. Birgid Oestrovsky,"Jasmina-Schacht-Weg 969,14667 Sigmaringen",2021-08-03,(07527) 885947
