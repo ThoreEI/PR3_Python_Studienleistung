@@ -14,12 +14,11 @@ class NumberNormer:
         self.__vorwahl = ""
 
     def parse_number(self, number):
-        print("1: " + number)
-        if re.search('[+][1][ ./-]([2-9][0-8][0-9]|[(][2-9][0-8][0-9][)])[-. ][0-9]{3}[-. ][0-9]{4}', number):
+        if re.search('[+]1[ ./-]([2-9][0-8]\d|[(][2-9][0-8]\d[)])[-. ]\d{3}[-. ]\d{4}', number):
             self.check_ortsvorwahl(number[3:])
-        elif re.search('[1][ ./-]([2-9][0-8][0-9]|[(][2-9][0-8][0-9][)])[-. ][0-9]{3}[-. ][0-9]{4}', number):
+        elif re.search('1[ ./-]([2-9][0-8]\d|[(][2-9][0-8]\d[)])[-. ]\d{3}[-. ]\d{4}', number):
             self.check_ortsvorwahl(number[2:])
-        elif re.search('([2-9][0-8][0-9]|[(][2-9][0-8][0-9][)])[-. ][0-9]{3}[-. ][0-9]{4}', number):
+        elif re.search('([2-9][0-8]\d|[(][2-9][0-8]\d[)])[-. ]\d{3}[-. ]\d{4}', number):
             self.check_ortsvorwahl(number)
         else:
             raise ValueError()
@@ -28,10 +27,10 @@ class NumberNormer:
 
     def check_ortsvorwahl(self, number):
         print("2: " + number)
-        if re.search('[(][2-9][0-8][0-9][)][ ./-][0-9]{3}[ ./-][0-9]{4}', number):
+        if re.search('[(][2-9][0-8]\d[)][ ./-]\d{3}[ ./-]\d{4}', number):
             self.__ortsvorwahl = number[1:4]
             self.check_amtskennung(number[6:])
-        elif re.search('[2-9][0-8][0-9][ ./-][0-9]{3}[ ./-][0-9]{4}', number):
+        elif re.search('[2-9][0-8]\d[ ./-]\d{3}[ ./-]\d{4}', number):
             self.__ortsvorwahl = number[0:3]
             self.check_amtskennung(number[4:])
         else:
@@ -39,7 +38,7 @@ class NumberNormer:
 
     def check_amtskennung(self, number):
         print("3: " + number)
-        if re.search('[0-9]{3}[ ./-][0-9]{4}', number):
+        if re.search('\d{3}[ ./-]\d{4}', number):
             self.__amtskennung = number[0:3]
             self.check_vorwahl(number[4:])
         else:
@@ -47,7 +46,7 @@ class NumberNormer:
 
     def check_vorwahl(self, number):
         print("4: " + number)
-        if re.search('[0-9]{4}', number):
+        if re.search('\d{4}', number):
             self.__vorwahl = number[0:4]
         else:
             raise ValueError()

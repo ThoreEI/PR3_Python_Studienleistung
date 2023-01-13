@@ -87,6 +87,6 @@ if __name__ == "__main__":
         outfile.write("[")
         while person is not None:
             json.dump(person, outfile)
-            outfile.write(", ")
+            outfile.write(",")
             person = personParser.get_persons
         outfile.write("]")
