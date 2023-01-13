@@ -1,0 +1,174 @@
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1673559553009)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1673559553009)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1673559553009)
++++ b/.idea/misc.xml	(date 1673559553009)
+@@ -0,0 +1,4 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (venv)" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1673559552991)
++++ b/.idea/modules.xml	(date 1673559552991)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/PR3_Skriptsprachen_GruppeD_SL2_AlexanderObwandner_Thore Eichhorn_SabihAhmedFateh.iml" filepath="$PROJECT_DIR$/.idea/PR3_Skriptsprachen_GruppeD_SL2_AlexanderObwandner_Thore Eichhorn_SabihAhmedFateh.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/PR3_Skriptsprachen_GruppeD_SL2_AlexanderObwandner_Thore Eichhorn_SabihAhmedFateh.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/PR3_Skriptsprachen_GruppeD_SL2_AlexanderObwandner_Thore Eichhorn_SabihAhmedFateh.iml b/.idea/PR3_Skriptsprachen_GruppeD_SL2_AlexanderObwandner_Thore Eichhorn_SabihAhmedFateh.iml
+new file mode 100644
+--- /dev/null	(date 1673559552991)
++++ b/.idea/PR3_Skriptsprachen_GruppeD_SL2_AlexanderObwandner_Thore Eichhorn_SabihAhmedFateh.iml	(date 1673559552991)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="jdk" jdkName="Python 3.9 (venv)" jdkType="Python SDK" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1673559552959)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1673559552959)
+@@ -0,0 +1,76 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="myCustomPropertiesEnabled" value="true" />
++      <option name="myIgnoreVendorSpecificProperties" value="false" />
++      <option name="myCustomPropertiesList">
++        <value>
++          <list size="3">
++            <item index="0" class="java.lang.String" itemvalue="align" />
++            <item index="1" class="java.lang.String" itemvalue="text-alignalign" />
++            <item index="2" class="java.lang.String" itemvalue="center" />
++          </list>
++        </value>
++      </option>
++    </inspection_tool>
++    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="myValues">
++        <value>
++          <list size="9">
++            <item index="0" class="java.lang.String" itemvalue="https:\github.com\pilip-d\pdf-compressor.git" />
++            <item index="1" class="java.lang.String" itemvalue=";" />
++            <item index="2" class="java.lang.String" itemvalue="," />
++            <item index="3" class="java.lang.String" itemvalue="float" />
++            <item index="4" class="java.lang.String" itemvalue="filter" />
++            <item index="5" class="java.lang.String" itemvalue="center" />
++            <item index="6" class="java.lang.String" itemvalue="contain" />
++            <item index="7" class="java.lang.String" itemvalue="no-repeat" />
++            <item index="8" class="java.lang.String" itemvalue="padding-box;" />
++          </list>
++        </value>
++      </option>
++      <option name="myCustomValuesEnabled" value="true" />
++    </inspection_tool>
++    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="myValues">
++        <value>
++          <list size="17">
++            <item index="0" class="java.lang.String" itemvalue="nobr" />
++            <item index="1" class="java.lang.String" itemvalue="noembed" />
++            <item index="2" class="java.lang.String" itemvalue="comment" />
++            <item index="3" class="java.lang.String" itemvalue="noscript" />
++            <item index="4" class="java.lang.String" itemvalue="embed" />
++            <item index="5" class="java.lang.String" itemvalue="script" />
++            <item index="6" class="java.lang.String" itemvalue="p" />
++            <item index="7" class="java.lang.String" itemvalue="h2" />
++            <item index="8" class="java.lang.String" itemvalue="h1" />
++            <item index="9" class="java.lang.String" itemvalue="span" />
++            <item index="10" class="java.lang.String" itemvalue="form" />
++            <item index="11" class="java.lang.String" itemvalue="br" />
++            <item index="12" class="java.lang.String" itemvalue="img" />
++            <item index="13" class="java.lang.String" itemvalue="animation" />
++            <item index="14" class="java.lang.String" itemvalue="py-script" />
++            <item index="15" class="java.lang.String" itemvalue="option" />
++            <item index="16" class="java.lang.String" itemvalue="ion-icon" />
++          </list>
++        </value>
++      </option>
++      <option name="myCustomValuesEnabled" value="true" />
++    </inspection_tool>
++    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
++      <option name="ignoredErrors">
++        <list>
++          <option value="E501" />
++        </list>
++      </option>
++    </inspection_tool>
++    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
++      <option name="ignoredErrors">
++        <list>
++          <option value="N806" />
++        </list>
++      </option>
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1673559750276)
++++ b/.idea/vcs.xml	(date 1673559750276)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
