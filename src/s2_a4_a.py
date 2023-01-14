@@ -1,70 +1,27 @@
 import re
-
-
 class ValueError(Exception):
-    def __init__(self, message="Salary is not in (5000, 15000) range"):
-        self.message = message
-        super().__init__(self.message)
-
-
-class NumberNormer:
     def __init__(self):
-        self.__ortsvorwahl = ""
-        self.__amtskennung = ""
-        self.__vorwahl = ""
+        super().__init__("Ungültige Telefonnummer")
 
-    def parse_number(self, number):
-        if re.search('[+]1[ ./-]([2-9][0-8]\d|[(][2-9][0-8]\d[)])[-. ]\d{3}[-. ]\d{4}', number):
-            self.check_ortsvorwahl(number[3:])
-        elif re.search('1[ ./-]([2-9][0-8]\d|[(][2-9][0-8]\d[)])[-. ]\d{3}[-. ]\d{4}', number):
-            self.check_ortsvorwahl(number[2:])
-        elif re.search('([2-9][0-8]\d|[(][2-9][0-8]\d[)])[-. ]\d{3}[-. ]\d{4}', number):
-            self.check_ortsvorwahl(number)
-        else:
-            raise ValueError()
+def parseNumber( number):
+    number = number if not re.search('^[+][1] ', number) else number[3:]
+    number = number if not re.search('^[1][ ./-]', number) else number[2:]
 
-        return "1-" + self.__ortsvorwahl + "-" + self.__amtskennung + "-" + self.__vorwahl
-
-    def check_ortsvorwahl(self, number):
-        print("2: " + number)
-        if re.search('[(][2-9][0-8]\d[)][ ./-]\d{3}[ ./-]\d{4}', number):
-            self.__ortsvorwahl = number[1:4]
-            self.check_amtskennung(number[6:])
-        elif re.search('[2-9][0-8]\d[ ./-]\d{3}[ ./-]\d{4}', number):
-            self.__ortsvorwahl = number[0:3]
-            self.check_amtskennung(number[4:])
-        else:
-            raise ValueError()
-
-    def check_amtskennung(self, number):
-        print("3: " + number)
-        if re.search('\d{3}[ ./-]\d{4}', number):
-            self.__amtskennung = number[0:3]
-            self.check_vorwahl(number[4:])
-        else:
-            raise ValueError()
-
-    def check_vorwahl(self, number):
-        print("4: " + number)
-        if re.search('\d{4}', number):
-            self.__vorwahl = number[0:4]
-        else:
-            raise ValueError()
-
+    if re.search("([2-9][0-8]\d|[(][2-9][0-8]\d[)])[ ./-]\d{3}[ ./-]\d{4}", number) and (len(number) == 12 or len(number) == 14):
+        return "1-" + number[1:4] + "-" + number[6:9] + "-" + number[10:] if re.search('^[(]', number) else "1-" + number[0:3] + "-" + number[4:7] + "-" + number[8:]
+    else:
+        raise ValueError()
 
 if __name__ == "__main__":
-    nm = NumberNormer()
     newNumbers = []
-    numbers = ["1 222-456-7890", "1-223-456 7890", "+1 223 456-7890", "(223) 457-7890", "223 456 7890", "223.456.7890"]
-    test_numbers = ["+1 223-456 7890",
-                    "1-223-456-7890",
-                    "+1 223 456-7890",
-                    "(223) 456-7890",
-                    "1 223 456 7890",
-                    "223.456.7890",
-                    "1-989-111-2222"]
+    numbers = ["+1 223-456 7890", "1 223-456-7890", "+1 223 456-7890", "(223) 456-7890", "1 223456 7890", "223.456.7890"]
 
-    for num in test_numbers:
-        newNumbers.append(nm.parse_number(num))
+    counter = 0
+    for num in numbers:
+        try:
+            newNumbers.append(parseNumber(num))
+        except ValueError:
+            print("Ungültige Nummer an Positon array Postion: " + str(counter))
+        counter += 1
 
     print(newNumbers)
