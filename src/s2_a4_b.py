@@ -2,15 +2,14 @@ import unittest
 import re
 import s2_a4_a as numParser
 
-class testNumbers(unittest.TestCase):
 
-    numbers = ["+1 223-456 7890", "1-223-456-7890", "+1 223 456-7890", "(223) 456-7890", "1 223 456 7890", "223.456.7890"]
+class testNumbers(unittest.TestCase):
+    numbers = ["+1 223-456 7890", "1-223-456-7890", "+1 223 456-7890", "(223) 456-7890", "1 223 456 7890",
+               "223.456.7890"]
 
     def test_number_array(self):
-
-        for i in range(0, len(self.numbers)-1):
+        for i in range(0, len(self.numbers) - 1):
             self.assertEqual(numParser.parseNumber(self.numbers[i]), '1-223-456-7890')
-
 
     def test_to_short_number(self):
         with self.assertRaises(numParser.ValueError):
