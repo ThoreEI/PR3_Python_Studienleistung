@@ -9,7 +9,6 @@ class ValueError(Exception):
 def parse_number(number):
     number = number if not re.search('^[+]1 ', number) else number[3:]
     number = number if not re.search('^1[ ./-]', number) else number[2:]
-
     if re.search("([2-9][0-8]\d|[(][2-9][0-8]\d[)])[ ./-]\d{3}[ ./-]\d{4}", number) and (
             len(number) == 12 or len(number) == 14):
         return "1-" + number[1:4] + "-" + number[6:9] + "-" + number[10:] \

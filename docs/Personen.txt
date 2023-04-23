@@ -1,5 +1,5 @@
 Name,Adresse,GebDatum,Telefon
-Maurizio Nette,"Zahnweg 0,82505 Querfurt",1913-12-28,05768 401245
+Maurizio Ab Ab Nette,"Zahnweg 0,82505 Querfurt",1913-12-28,05768 401245
 Traute Eimer,"Klaus-Werner-Kramer-Straße 87,21837 Lübben",1918-02-04,(06315) 47866
 Veronika Gnatz,"Hüseyin-Gertz-Ring 20,92058 Bernburg",2012-09-25,(01069) 36743
 Ing. Charlotte Sölzer,"Heinz-Werner-Huhn-Platz 595,11363 Gifhorn",1964-08-09,01764 90195
