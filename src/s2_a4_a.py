@@ -12,6 +12,5 @@ def normalize(number: str) -> str:
     if not matches:
         raise ValueError("Invalid phone number.")
     telephone_number = [re.sub(r"\D", "", match)
-                        for match in matches.group("country_code", "phone_prefix", "exchange_code", "phone_extension")]
-    print(telephone_number)
-    return "-".join(telephone_number)
+                        for match in matches.group("phone_prefix", "exchange_code", "phone_extension")]
+    return "1-".join(telephone_number)
