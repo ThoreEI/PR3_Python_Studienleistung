@@ -18,7 +18,6 @@ if __name__ == '__main__':
                 street_number = re.sub(r"\D+", "", info[1]).strip()
                 postal_code = re.sub(r"\D+", "", info[2]).strip()
                 residence = re.sub(r"\d+", "", info[2]).strip()
-                phone_number = "".join(re.findall(r"\+*[(0)|\d{5}]*[\s\d]+", info[4])).strip()
                 persons.append({"Index": index,
                                 "Titel": [None if title == "" else title],
                                 "Vorname": [first_name],
@@ -28,9 +27,8 @@ if __name__ == '__main__':
                                 "Straße": [street_name],
                                 "Hausnummer": [street_number],
                                 "PLZ": [postal_code],
-                                "Wohnort": [residence],
-                                "Telefon": [phone_number]})
+                                "Wohnort": [residence]})
             except IndexError:
                 continue
     with open(r"Personen_Neu.json", "w") as output_file:
-        json.dump(persons, output_file, indent=1, ensure_ascii=False)
+        json.dump(persons, output_file, indent=2, ensure_ascii=False)
