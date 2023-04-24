@@ -30,5 +30,5 @@ if __name__ == '__main__':
                                 "Wohnort": [residence]})
             except IndexError:
                 continue
-    with open(r"Personen_Neu.json", "w") as output_file:
+    with open(r"../docs/Personen_Neu.json", "w") as output_file:
         json.dump(persons, output_file, indent=2, ensure_ascii=False)
