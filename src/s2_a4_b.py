@@ -23,8 +23,6 @@ class TestNormalize(unittest.TestCase):
             with self.subTest(number=test_numbers[i]):
                 self.assertRaises(ValueError, normalize, "1-911-111-1111")
 
-
-    #
     # def test_number_array(self):
     #     for i in range(0, len(self.numbers) - 1):
     #         self.assertEqual(num_parser.parse_number(self.numbers[i]), '1-223-456-7890')
