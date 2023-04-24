@@ -1,28 +1,17 @@
 import re
 
-def parse_number(number):
-    number = number if not re.search('^[+]1 ', number) else number[3:]
-    number = number if not re.search('^1[ ./-]', number) else number[2:]
-    if re.search("([2-9][0-8]\d|[(][2-9][0-8]\d[)]) [ ./-]\d{3}[ ./-]\d{4}", number) and (
-            len(number) == 12 or len(number) == 14):
-        return "1-" + number[1:4] + "-" + number[6:9] + "-" + number[10:] \
-            if re.search('^[(]', number) \
-            else "1-" + number[0:3] + "-" + number[4:7] + "-" + number[8:]
-    else:
-        raise ValueError()
 
-
-if __name__ == "__main__":
-    newNumbers = []
-    numbers = ["+1 223-456 7890", "1 223-456-7890", "+1 223 456-7890", "(223) 456-7890", "1 223456 7890",
-               "223.456.7890"]
-
-    counter = 0
-    for num in numbers:
-        try:
-            newNumbers.append(parse_number(num))
-        except ValueError:
-            print("Ungültige Nummer an Position array Postion: " + str(counter))
-        counter += 1
-
-    print(newNumbers)
+def normalize(number: str) -> str:
+    pattern = re.compile(r"""
+                 ^(?P<country_code>\+?1?)[ ,.-]?
+                  (?P<phone_prefix>(\(?([2-9][0-8]\d)\))|([2-9][0-8])\d)[ ,.-]?
+                  (?P<exchange_code>\d{3})[ ,.-]?
+                  (?P<phone_extension>[2-9]\d{3})?\.?$
+            """, re.VERBOSE)
+    matches = pattern.match(number)
+    if not matches:
+        raise ValueError("Invalid phone number.")
+    telephone_number = [re.sub(r"\D", "", match)
+                        for match in matches.group("country_code", "phone_prefix", "exchange_code", "phone_extension")]
+    print(telephone_number)
+    return "-".join(telephone_number)

@@ -9,8 +9,8 @@ if __name__ == '__main__':
                 info = line.strip().replace("\"", "").split(",")
                 full_name = info[0].split(" ")
                 last_name = full_name.pop(-1)
-                title = "".join(re.findall("(Dr.|Dipl.|-?Ing.|Prof.|Univ.)\s*", full_name.pop(0))) \
-                    if re.match("(Dr.|Dipl.|-?Ing.|Prof.|Univ.)\s*", full_name[0]) else None
+                title = "".join(re.findall("(Dr.|Dipl.|-?Ing.|-?Prof.|Univ.)\s*", full_name.pop(0))) \
+                    if re.match("(Dr.|Dipl.|-?Ing.|-?Prof.|Univ.)\s*", full_name[0]) else None
                 first_name = full_name.pop(0)
                 middle_name = " ".join(full_name[1:]) if len(full_name) > 1 else None
                 birthdate = re.sub(r"(\d{4})-(\d{2})-(\d{2})", r"\3.\2.\1", info[3]).strip()
@@ -33,4 +33,4 @@ if __name__ == '__main__':
             except IndexError:
                 continue
     with open(r"Personen_Neu.json", "w") as output_file:
-        json.dump(persons, output_file, indent=2, ensure_ascii=False)
+        json.dump(persons, output_file, indent=1, ensure_ascii=False)
